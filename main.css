@@ -1,0 +1,9 @@
+.add-work {
+  color: green;
+}
+tr > td >#edit {
+  color: blue;
+}
+tr > td >#delete {
+  color: red;
+}
